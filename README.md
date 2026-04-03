@@ -2,35 +2,29 @@
 
 ```
 ［本日のランキング］2026/4/3
-1 - @75thuijkl (491.32Point)
-https://scratch.mit.edu/projects/1275403153
+1 - @nyannyan_boy (256.54Point)
+https://scratch.mit.edu/projects/1285720895
 
-2 - @ku-nosukenokuni (460.91Point)
-https://scratch.mit.edu/projects/1292466076
-
-3 - @Frisk4188 (103.03Point)
+2 - @Frisk4188 (103.08Point)
 https://scratch.mit.edu/projects/1186884820
 
-4 - @Santana0926 (86.26Point)
-https://scratch.mit.edu/projects/1297113495
+3 - @Karin310103 (88.80Point)
+https://scratch.mit.edu/projects/1292707461
 
-5 - @sbr1207 (73.27Point)
-https://scratch.mit.edu/projects/1295340742
+4 - @kuroneko-ryu (18.50Point)
+https://scratch.mit.edu/projects/1297674171
 
-6 - @nekomazin (70.66Point)
-https://scratch.mit.edu/projects/1296915098
+5 - @PixelmanV (15.76Point)
+https://scratch.mit.edu/projects/1290123066
 
-7 - @PixelmanV (61.32Point)
-https://scratch.mit.edu/projects/1287840296
+6 - @atsuatsu2914 (10.97Point)
+https://scratch.mit.edu/projects/1282091335
 
-8 - @mirukuoisii (36.29Point)
-https://scratch.mit.edu/projects/1166744704
+7 - @wasagoki (2.75Point)
+https://scratch.mit.edu/projects/1287426621
 
-9 - @jinn100 (30.18Point)
-https://scratch.mit.edu/projects/1219944457
-
-10 - @namazutteyobuna (29.50Point)
-https://scratch.mit.edu/projects/1255508910
+8 - @hane1026 (2.68Point)
+https://scratch.mit.edu/projects/1052468891
 
 ```
 
