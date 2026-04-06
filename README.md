@@ -1,21 +1,36 @@
 # 本日のランキング（スタジオ説明欄に貼る用）
 
 ```
-［本日のランキング］2026/4/5
-1 - @2010kotaro (139.38Point)
-https://scratch.mit.edu/projects/1280409797
+［本日のランキング］2026/4/6
+1 - @ku-nosukenokuni (510.99Point)
+https://scratch.mit.edu/projects/1292466076
 
-2 - @Frisk4188 (102.85Point)
-https://scratch.mit.edu/projects/1186884820
+2 - @kikijiji-K (388.50Point)
+https://scratch.mit.edu/projects/584820949
 
-3 - @YU1000 (13.40Point)
-https://scratch.mit.edu/projects/1299370289
+3 - @Wemmbu_- (105.54Point)
+https://scratch.mit.edu/projects/1299073031
 
-4 - @i8823 (10.31Point)
+4 - @hidehide63 (66.54Point)
+https://scratch.mit.edu/projects/1291437622
+
+5 - @TheDudes421 (23.38Point)
+https://scratch.mit.edu/projects/1227952262
+
+6 - @sotaro9999 (22.41Point)
+https://scratch.mit.edu/projects/1289642209
+
+7 - @TMK145 (17.80Point)
+https://scratch.mit.edu/projects/1298882061
+
+8 - @imakestuff242 (10.40Point)
+https://scratch.mit.edu/projects/1299600423
+
+9 - @i8823 (10.32Point)
 https://scratch.mit.edu/projects/1067942807
 
-5 - @NEKOscratch7 (5.71Point)
-https://scratch.mit.edu/projects/1236583062
+10 - @Skibidi_Fans (9.19Point)
+https://scratch.mit.edu/projects/1268257329
 
 ```
 
