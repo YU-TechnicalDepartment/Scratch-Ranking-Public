@@ -1,36 +1,27 @@
 # 本日のランキング（スタジオ説明欄に貼る用）
 
 ```
-［本日のランキング］2026/4/6
-1 - @ku-nosukenokuni (510.99Point)
-https://scratch.mit.edu/projects/1292466076
+［本日のランキング］2026/4/7
+1 - @75thuijkl (525.50Point)
+https://scratch.mit.edu/projects/1279137054
 
-2 - @kikijiji-K (388.50Point)
-https://scratch.mit.edu/projects/584820949
+2 - @__-nyanko-__ (84.43Point)
+https://scratch.mit.edu/projects/1299600473
 
-3 - @Wemmbu_- (105.54Point)
-https://scratch.mit.edu/projects/1299073031
+3 - @PARISvdven (39.88Point)
+https://scratch.mit.edu/projects/1195597742
 
-4 - @hidehide63 (66.54Point)
-https://scratch.mit.edu/projects/1291437622
+4 - @2010kotaro (32.56Point)
+https://scratch.mit.edu/projects/1297707994
 
-5 - @TheDudes421 (23.38Point)
-https://scratch.mit.edu/projects/1227952262
+5 - @Jyres (15.30Point)
+https://scratch.mit.edu/projects/1295641179
 
-6 - @sotaro9999 (22.41Point)
-https://scratch.mit.edu/projects/1289642209
+6 - @NEKOscratch7 (2.69Point)
+https://scratch.mit.edu/projects/1298536020
 
-7 - @TMK145 (17.80Point)
-https://scratch.mit.edu/projects/1298882061
-
-8 - @imakestuff242 (10.40Point)
-https://scratch.mit.edu/projects/1299600423
-
-9 - @i8823 (10.32Point)
-https://scratch.mit.edu/projects/1067942807
-
-10 - @Skibidi_Fans (9.19Point)
-https://scratch.mit.edu/projects/1268257329
+7 - @harrisoncool1234 (1.63Point)
+https://scratch.mit.edu/projects/1204297528
 
 ```
 
