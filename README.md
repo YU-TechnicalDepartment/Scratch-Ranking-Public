@@ -1,15 +1,15 @@
 # 本日のランキング（スタジオ説明欄に貼る用）
 
 ```
-［本日のランキング］2026/4/9
-1 - @Frisk4188 (103.16Point)
-https://scratch.mit.edu/projects/1186884820
+［本日のランキング］2026/4/10
+1 - @ku-nosukenokuni (506.55Point)
+https://scratch.mit.edu/projects/1292466076
 
-2 - @Karin310103 (73.55Point)
-https://scratch.mit.edu/projects/1292707461
-
-3 - @i8823 (10.30Point)
+2 - @i8823 (10.29Point)
 https://scratch.mit.edu/projects/1067942807
+
+3 - @NEKOscratch7 (2.20Point)
+https://scratch.mit.edu/projects/1298536020
 
 ```
 
