@@ -1,6 +1,9 @@
 javascript:(async()=>{try{
 const studioId="51407751";
 
+/* ランダム待機（min〜maxミリ秒） */
+const sleep = (min,max)=>new Promise(r=>setTimeout(r,Math.random()*(max-min)+min));
+
 /* Cookie から CSRF Token を取得 */
 function getCookie(name){
   return document.cookie.split("; ").find(r=>r.startsWith(name+"="))?.split("=")[1];
@@ -32,6 +35,8 @@ await fetch(`https://scratch.mit.edu/site-api/galleries/all/${studioId}/`,{
   },
   body:JSON.stringify({description:descText})
 });
+console.log("説明欄更新完了");
+await sleep(500,2000);
 
 /* README から project ID を抽出 */
 const idRegex=/projects\/(\d+)/g;
@@ -51,6 +56,8 @@ for(const pid of currentIds){
       "x-requested-with":"XMLHttpRequest"
     }
   });
+  console.log("削除:",pid);
+  await sleep(500,2000);
 }
 
 /* 逆順で追加（POST + X-Token） */
@@ -63,6 +70,8 @@ for(const pid of ids){
       "x-requested-with":"XMLHttpRequest"
     }
   });
+  console.log("追加:",pid);
+  await sleep(500,2000);
 }
 
 alert("説明欄更新・全削除・逆順追加が完了しました！");
