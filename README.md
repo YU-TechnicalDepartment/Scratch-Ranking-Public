@@ -1,9 +1,9 @@
 # 本日のランキング（スタジオ説明欄に貼る用）
 
 ```
-［本日のランキング］2026/5/12
-1 - @usuusussei (9.40Point)
-https://scratch.mit.edu/projects/1318347278
+［本日のランキング］2026/5/13
+1 - @usuusussei (4.88Point)
+https://scratch.mit.edu/projects/1316297576
 
 ```
 
